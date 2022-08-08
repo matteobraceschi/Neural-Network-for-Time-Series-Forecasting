@@ -1,4 +1,4 @@
-# Artificial-Neural-Network-And-Deep-Learning-2
+# Time Series Forecasting
 This repository contains the code for the homework project of the course Artificial Neural Networks And Deep Learning held at Politecnico Di Milano.
 
 # About the Project
